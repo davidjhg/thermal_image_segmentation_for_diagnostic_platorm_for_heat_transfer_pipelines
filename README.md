@@ -1,0 +1,1 @@
+# thermal_image_segmentation_for_diagnostic_platorm_for_heat_transfer_pipelines
